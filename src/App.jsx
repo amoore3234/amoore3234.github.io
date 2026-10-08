@@ -72,7 +72,7 @@ export default function App() {
                   <p className="text-md text-slate-750 mt-2 font-normal">
                     I'm currently a Fullstack Software Developer at Whitesky Communications where we strive to provide our customers with the next-generation of internet for multi-family and commercial units.
                     My focus is to build and optimize internal tooling systems for end users, so they can perform their day-to-day duties more efficiently. I helped build and optimized Java-based REST APIs
-                    improving data modernization accross 500+ sites, reducing synchronization bottlenecks by 30%. I also built a network tooling system to streamline workflows and enhance visibility for Network Engineers.
+                    improving data modernization across 500+ sites, reducing synchronization bottlenecks by 30%. I also built a network tooling system to streamline workflows and enhance visibility for Network Engineers.
                     I'm currently synchronizing 1000+ devices from external systems to Whitesky's ecosystem to enhance data efficiency, accessability, and reduce manual processesing for end users.
                   </p>
                 </div>
